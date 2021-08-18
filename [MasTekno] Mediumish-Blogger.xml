@@ -109,7 +109,7 @@
         ul,ol,li{display:none}
       ]]></b:skin>
     </b:if>
-<link href='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-mastekno/master/mediumish-green.css' rel='stylesheet'/>
+<link href='https://cdn.statically.io/gh/yukebrillianth/mediumish-asset/master/mediumish-blue.css' rel='stylesheet'/>
     <style>
       html {
       -webkit-animation: fadein 1s;
